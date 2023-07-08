@@ -1,0 +1,117 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+  margin: auto;
+  padding: auto;
+  }
+  
+  /* Encabezado */
+  .header {
+    background-color: #f2f2f2;
+    height: 5px;
+  }
+  
+  /* Contenedor de botones */
+  .button-container {
+    display: auto;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  
+  .button-container button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 20px; 
+  }
+  
+  /* Contenedor de botones adicionales */
+  .button-container1{
+      margin-top: 0.5px;
+      padding: 10px 50px;
+      text-align: 10%;
+      
+  }
+  .button-container2 {
+    margin-top: 20px;
+  }
+  
+  /* Registro de usuario */
+  .button-container1 button {
+    background-color: blue;
+    color: white;
+  }
+  
+  /* Menú de ingresos */
+  .medical-record {
+    margin-top: 30px;
+  }
+  
+  .medical-record h2 {
+    font-size: 24px;
+  }
+  
+  .medical-record form {
+    margin-top: 20px;
+  }
+  
+  .medical-record label {
+    display: block;
+    margin-top: 10px;
+    float: left; 
+    clear: left; 
+    width: 150px; 
+  }
+  
+  .medical-record textarea {
+    width: calc(100% - 160px); 
+    height: 30px;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: green;
+  }
+  
+  /* Antecedentes médicos */
+  .medical-history {
+    margin-top: 30px;
+  }
+  
+  .medical-history h3 {
+    font-size: 18px;
+  }
+  
+  .medical-history form {
+    margin-top: 20px;
+  }
+  
+  .medical-history label {
+    display: block;
+    margin-top: 10px;
+    float: left; 
+    clear: left; 
+    width: 150px; 
+  }
+  
+  .medical-history textarea {
+    width: calc(100% - 160px); 
+    height: 30px;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: green;
+  }
+  
+  /* Botón de registro de ingreso */
+  .button-container2 button {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 12px; 
+  }
+  
+  
+  
