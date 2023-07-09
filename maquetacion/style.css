@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
+  font-family: inherit;
   margin: auto;
   padding: auto;
   }
@@ -19,7 +19,7 @@ body {
   }
   
   .button-container button {
-    background-color: blue;
+    background-color: #1C1364;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -40,7 +40,7 @@ body {
   
   /* Registro de usuario */
   .button-container1 button {
-    background-color: blue;
+    background-color: #1C1364;
     color: white;
   }
   
@@ -70,7 +70,8 @@ body {
     height: 30px;
     padding: 5px;
     margin-top: 5px;
-    background-color: green;
+    background-color:  #3AB24F;
+    ;
   }
   
   /* Antecedentes médicos */
@@ -99,12 +100,13 @@ body {
     height: 30px;
     padding: 5px;
     margin-top: 5px;
-    background-color: green;
+    background-color:  #3AB24F;
+    ;
   }
   
   /* Botón de registro de ingreso */
   .button-container2 button {
-    background-color: #2196f3;
+    background-color: #1C1364;
     color: white;
     border: none;
     padding: 5px 10px;
