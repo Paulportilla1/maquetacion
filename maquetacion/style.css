@@ -109,7 +109,7 @@ body {
   .button-container2 button {
     background-color : #1C1364;
     color: white;
-    border: none;
+    border: 150px #3AB24F;
     padding: 5px 10px;
     cursor: pointer;
     margin-top: 20px;
